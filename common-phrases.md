@@ -39,7 +39,7 @@
 - det stämmer: it is true
   - vi har ett viktigt möte imorgon.
 ## Disagree
-- jag haller inte med: I don't agree with
+- jag håller inte med: I don't agree with
   - om att alla borde studera på universitet
 - det är jag inte säker på: I am not sure about that
   - jag tror att det finns andra lösningar för problemet
