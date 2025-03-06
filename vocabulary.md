@@ -31,7 +31,7 @@
 - Arbete (Work): jobb, arbete, yrke (profession), chef, kollega (colleague), kontor (office), möte, lön (salary), söka jobb (apply for a job)
 - Utbildning (Education): skola, universitet, studera, lärare, elev (student), lektion, prov (test), betyg (grade), lära sig (learn)
 
-## Society (Samhälle):
+## Samhälle
 - Samhälle (Society): land, stad, befolkning (population), regering (government), politik, lag (law), olaglig, kultur, tradition, invandrare (immigrant), medborgare (citizen)
 - Problem (Problems): arbetslöshet (unemployment), riklig, fattigdom (poverty), brott (crime), rasism, diskriminering, miljöproblem
 - Media: nyheter (news), tidning, tv, radio, internet, nätet, sociala medier
