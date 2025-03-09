@@ -28,8 +28,13 @@
 - Välbefinnande (Wellbeing): stress, avslappning (relaxation), motion (exercise), sömn (sleep), kost (diet), hälsosam (healthy), balans (balance), koppla av,underhålla (relax), underhålla (entertain)
 
 ## Arbete och Utbildning
-- Arbete (Work): jobb, arbete, yrke (profession), chef, kollega (colleague), kontor (office), möte, lön (salary), söka jobb (apply for a job)
+- Arbete (Work):
+  - jobb, arbete, yrke (profession), chef, kollega (colleague), kontor (office), möte, lön (salary), söka jobb (apply for a job),
+  - en lön, en semestar, ett konto (account), ett arbetskontrakt, en chef, en kollega, den högsta ledningen (highest management), en samarbetspartner (business partner), ett arbetsområde (work area), ett kafferum
+  - regler (rule), en  arbetstid (work hour), en övervakning av arbetstiden, en paus
+  - vid lunchtid, ett arbetsområde, ett möte, en övertid, säger upp sig, säger upp, väljer, få en överenskommelse, ett projekt, söker, vikariera, introducerar, tjänar, en deadline, färdig
 - Utbildning (Education): skola, universitet, studera, lärare, elev (student), lektion, prov (test), betyg (grade), lära sig (learn)
+- 
 
 ## Samhälle
 - Samhälle (Society): land, stad, befolkning (population), regering (government), politik, lag (law), olaglig, kultur, tradition, invandrare (immigrant), medborgare (citizen)
